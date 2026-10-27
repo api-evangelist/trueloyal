@@ -64,5 +64,26 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-TrueLoyal is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://trueloyal.com/
+TrueLoyal provides a customer loyalty platform for consumer brands, enabling receipt scanning, advanced analytics, fan club programs, AI‑driven review summaries, and loyalty program management across e‑commerce, retail and B2B channels. The solution helps brands launch, run and scale loyalty initiatives, offering rewards, referrals, and insights to boost retention and engagement.
+
+**Areas:** Loyalty · Platform · SaaS · Retail · Consumer Brands · Company
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.trueloyal.com/)
+- [Documentation](https://developers.trueloyal.com/)
+- [Getting started](https://developers.trueloyal.com/guides/introduction.html)
+- [API reference](https://developers.trueloyal.com/loyalty-openapi.yml)
+- [Pricing](https://www.trueloyal.com/pricing)
+- [Support](https://help.trueloyal.com/)
+- [Blog](https://www.trueloyal.com/blog)
+- [Compliance](https://www.trueloyal.com/terms-and-conditions)
+- [Terms of service](https://www.trueloyal.com/terms-and-conditions)
+- [Privacy policy](https://www.trueloyal.com/privacy-policy)
+- [GitHub](https://github.com/trueloyal)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/trueloyal/](https://apis.io/providers/trueloyal/).
